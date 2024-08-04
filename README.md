@@ -50,7 +50,7 @@ I welcome contributions from anyone who wants to improve the solutions, provide 
 Connect with me on:
 - GitHub: https://github.com/ACHALGAJBHIYE
 - Email: achalgajbhiye19@gmail.com
-- Linkdin: www.linkedin.com/in/achal-gajbhiye-b84178259
+- Linkedin: www.linkedin.com/in/achal-gajbhiye-b84178259
 - Leetcode: https://leetcode.com/u/aachuuu/
 - Hakerrank: https://www.hackerrank.com/dashboard
 
