@@ -48,9 +48,11 @@ I welcome contributions from anyone who wants to improve the solutions, provide 
 ## 🌐 Social Media
 
 Connect with me on:
-- [LinkedIn](www.linkedin.com/in/achal-gajbhiye-b84178259)
-- [Leetcode](https://leetcode.com/u/aachuuu/)
-- [Hakerrank](https://www.hackerrank.com/dashboard)
+- GitHub: https://github.com/ACHALGAJBHIYE
+- Email: achalgajbhiye19@gmail.com
+- Linkdin: www.linkedin.com/in/achal-gajbhiye-b84178259
+- Leetcode: https://leetcode.com/u/aachuuu/
+- Hakerrank: https://www.hackerrank.com/dashboard
 
 ---
 
