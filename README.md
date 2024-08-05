@@ -52,7 +52,7 @@ Connect with me on:
 - Email: achalgajbhiye19@gmail.com
 - Linkedin: www.linkedin.com/in/achal-gajbhiye-b84178259
 - Leetcode: https://leetcode.com/u/aachuuu/
-- Hakerrank: https://www.hackerrank.com/dashboard
+- Hakerrank: https://www.hackerrank.com/profile/achalgajbhiye19
 
 ---
 
